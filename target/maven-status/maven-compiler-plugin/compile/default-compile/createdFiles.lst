@@ -1,0 +1,9 @@
+BookRental\PolicyHandler.class
+BookRental\DeliveryManagement.class
+BookRental\DeliveryFinished.class
+BookRental\config\kafka\KafkaProcessor.class
+BookRental\AbstractEvent.class
+BookRental\DeliveryStarted.class
+BookRental\DeliveryManagementRepository.class
+BookRental\DeliveryManagementController.class
+BookRental\Application.class
